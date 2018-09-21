@@ -5,6 +5,12 @@
 An Android client for [WebRTC-Android](https://github.com/balwant108/WebRTC-Android).
 
 It is designed to demonstrate WebRTC video calls between androids and/or desktop browsers, but WebRtcClient could be used in other scenarios. 
+
+- WebRTC-Android
+- [iOS client](https://github.com/balwant108/WebRTC-iOS)
+- [server](https://github.com/balwant108/WebRTC-Server)
+
+
 Build with Android Studio 1.1.0. The Intellij IDEA version is in the master branch.
 You can import the webrtc-client module in your own app if you want to work with it.
 
