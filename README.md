@@ -17,7 +17,7 @@ You can import the webrtc-client module in your own app if you want to work with
 
 ## How To
 
-You need [WebRTC-Android](https://github.com/balwant108/WebRTC-Android) up and running, and it must be somewhere that your android can access. (You can quickly test this with your android browser). Modify the host string (in res/values/strings.xml) to the server IP.
+You need [WebRTC-Server](https://github.com/balwant108/WebRTC-Server) up and running, and it must be somewhere that your android can access. (You can quickly test this with your android browser). Modify the host string (in res/values/strings.xml) to the server IP.
 
 When you launch the app, you will be given several options to send a message : "Call someone".
 Use this menu to send a link of your stream. This link can be opened with a WebRTC-capable browser or by another WebRTC-Android.
